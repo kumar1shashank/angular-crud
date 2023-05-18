@@ -4,25 +4,25 @@
       "firstName": "asd",
       "lastName": "asdf",
       "email": "asd@gmail",
-      "dob": "2000-12-11T18:30:00.000Z",
-      "gender": "male",
-      "education": "Diploma",
-      "company": "asdf",
-      "experience": 4,
-      "package": 1200,
-      "id": 1
-    },
-    {
-      "firstName": "asd",
-      "lastName": "asdf",
-      "email": "asd@gmail",
       "dob": "2001-06-30T18:30:00.000Z",
       "gender": "male",
       "education": "Diploma",
       "company": "asdf",
       "experience": 7,
-      "package": 78,
+      "package": 17,
       "id": 2
+    },
+    {
+      "firstName": "ajit",
+      "lastName": "tiwari",
+      "email": "ajit@gmail.com",
+      "dob": "2000-12-11T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "tcs",
+      "experience": 5,
+      "package": 12,
+      "id": 3
     }
   ]
 }
